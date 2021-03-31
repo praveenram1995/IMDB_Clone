@@ -1,0 +1,12 @@
+body{
+	background-image:url('/images/banner.png');
+	background-repeat: no-repeat; 
+  	background-size: 100% 348px;
+  	background-color: #2e3035 !important;
+}
+
+@media (min-width: 1200px){
+.container {
+    max-width: 1008px !important;
+}	
+}

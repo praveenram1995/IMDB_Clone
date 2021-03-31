@@ -1,0 +1,9 @@
+.Message {
+    font-size: 24px;
+    letter-spacing: .6px;
+    color: #aed8ea;
+    text-align: center;
+    margin-top: 12px;
+    min-height: 34px;
+    position: relative;
+}
